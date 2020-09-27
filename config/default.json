@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoUri" : "mongodb+srv://admin:Gold2301974@cluster0.cdbai.mongodb.net/app?retryWrites=true&w=majority",
+    "jwtSecret": "webdevery-project",
+    "baseUrl": "http://localhost:5000"
+}
